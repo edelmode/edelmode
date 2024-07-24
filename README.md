@@ -11,7 +11,7 @@
   <img align="center" src="https://streak-stats.demolab.com?user=edelmode&theme=highcontrast" />
 </a>
 <a href="https://github.com/edelmode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelmode&layout=donut-vertical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelmode&layout=donut" />
 </a>
 
 
