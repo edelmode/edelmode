@@ -37,9 +37,6 @@
   <a href="https://github.com/edelmode">
     <img align="center" src="https://streak-stats.demolab.com?user=edelmode&hide_border=true&theme=highcontrast" />
   </a>
-  <a href="https://github.com/edelmode">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?user=edelmode&show_owner=true&hide_border=true&theme=highcontrast" />
-  </a>
 </div>
 
 
