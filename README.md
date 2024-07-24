@@ -9,13 +9,13 @@
 
 
 <a href="https://github.com/edelmode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edelmode&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edelmode&show_icons=true&hide_border=true&exclude_repo=false&theme=highcontrast" />
 </a>
 <a href="https://github.com/edelmode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelmode&layout=donut&hide_border=true&theme=highcontrast" />
 </a><br>
 <a href="https://github.com/edelmode">
-  <img align="center" src="https://streak-stats.demolab.com?user=edelmode&theme=highcontrast" />
+  <img align="center" src="https://streak-stats.demolab.com?user=edelmode&hide_border=true&theme=highcontrast" />
 </a>
 
 
