@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edel-mae-tapar-aa2a9527b/)
 [![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edelmaetapar1094@gmail.com)
 <p align="right">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=edelmode.edelmode" alt="Visitors">
+    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fedelmode.edelmode%2Fvisits" alt="Visitors">
 </p>
 
 
